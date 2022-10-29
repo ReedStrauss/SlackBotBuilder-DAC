@@ -1,2 +1,21 @@
-Install
-- 
+NOTE: THIS PACKAGE IS NOT BULKIFIED
+
+Install the unmanaged package here https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5e000000f7Gd
+
+
+
+Optional:
+
+To make your bot building experience better, it is suggested to add a default webhook into the BehaviorBuilder flow. 
+
+Setup > Flows > Behavior Builder
+
+1. Open the 'HomePage' screen component.
+
+2. Select the 'Endpoint' text component.
+
+3. Add your webhook url as the default text.
+
+4. Save flow as new version.
+
+5. Activate flow.
